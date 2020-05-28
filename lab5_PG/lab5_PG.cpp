@@ -16,6 +16,13 @@ struct item {
 	int attack_speed; //(hps)
 };
 
+struct sweety {
+	int mass;
+	char name[20];
+	char exp_date[20];
+	int callor;
+};
+
 void inventory_info(item* inventory, int N);
 void item_info(item item);
 tuple<item*, int> read_inventory();

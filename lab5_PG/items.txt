@@ -1,0 +1,4 @@
+Scarlet Devil/Weapon/Legendary/0.1/1245/5
+Ataraxia/Weapon/Sweeping/1.0/3251/25
+Crystalline/Pickaxe/Hasty/0.5/230/10
+Gerhard/Rod/Demonic/0.01/230/10
